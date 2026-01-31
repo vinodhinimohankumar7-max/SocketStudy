@@ -101,8 +101,8 @@ server_socket.close()
 ```
 ## output:
 client:
-![alt text](client.png)
+![alt text](<Screenshot 2026-01-31 133433.png>)
 server:
-![alt text](server.png)
+![alt text](<Screenshot 2026-01-31 133400.png>)
 ## Result:
 Thus the study of Socket Programming Completed Successfully
